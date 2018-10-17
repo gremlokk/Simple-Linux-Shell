@@ -5,9 +5,7 @@
 	Course: COSC4302            
 	Last Modified: 4/21/2017
 
-	Description: Creates a simple shell that allows the use to enter linux commands using execv()
-	
-	
+	Description: Creates a simple shell that allows the use to enter linux commands using execv()	
 */
 					
 
